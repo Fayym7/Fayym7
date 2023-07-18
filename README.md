@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fayym7
+- 👋 Hi, I’m Akhtar Faheem
 - 👀 I’m interested in Backend engineering and Cloud 
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on my projects hosted here
